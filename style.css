@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 253, 253);
+    
+}
+
+.img-rounded{
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+    
+}
+.card{
+    border-style: none;
+}
+.bio{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+.work-text{
+    font-size: 15px;
+    opacity: 90%;
+    padding: 0;
+    
+}
